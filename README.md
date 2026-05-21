@@ -5,6 +5,7 @@ Mouseover image previews for links on the AQ-3D Wiki.
 Originally known as (WikiView: AQW Link Preview by biglavis), rewritten for compatibility with the AQ-3D Wiki.
 
 Original Author: https://greasyfork.org/en/users/1268786-biglavis (https://github.com/biglavis/)
+
 Original Script: https://greasyfork.org/en/scripts/488835-wikiview-aqw-link-preview
 
 ## Install
